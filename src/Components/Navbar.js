@@ -5,8 +5,8 @@ import {
 
 
 export class Navbar extends Component {
-
     render() {
+        console.log('1111111111');
         return (
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container-fluid">
